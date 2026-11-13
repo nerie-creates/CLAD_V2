@@ -1,0 +1,6 @@
+{
+  "name": "CLAD — Wholistic Accessory Protectors",
+  "description": "Customizable, impact-tested protectors in style for phones, earbuds, laptops, and bottles. Built for active lifestyles, designer drops, and corporate or school bulk orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
